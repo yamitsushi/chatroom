@@ -24,7 +24,7 @@
 ## Setting up the frontend
 
 - install npm packages
-> npm run install
+> npm install
 
 - go to src/plugins/pusher.js
 > the key should be the same with the PUSHER_APP_KEY you put in the backend
@@ -58,3 +58,6 @@
 
 - please note that I specifically specified to use the port 80, so that the auto logoff will be lessen
 
+## Access the website
+- you can now access the website using the following link
+> http://localhost
